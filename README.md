@@ -31,4 +31,4 @@ pip install wikipedia
 
 pip install pyjokes
 
-Thhis is about my alexa and in future my alexa will do much more tasks..
+This is about my alexa and in future my alexa will do much more tasks..
